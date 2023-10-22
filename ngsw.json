@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1697995801723,
+  "index": "/atividade-pwa-angular/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/atividade-pwa-angular/favicon.ico",
+        "/atividade-pwa-angular/index.html",
+        "/atividade-pwa-angular/main.a1d57d71d4937187.js",
+        "/atividade-pwa-angular/manifest.webmanifest",
+        "/atividade-pwa-angular/polyfills.fb544d1b1e0d76ba.js",
+        "/atividade-pwa-angular/runtime.c96df8fab863f987.js",
+        "/atividade-pwa-angular/styles.ef46db3751d8e999.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/atividade-pwa-angular/assets/icons/icon-128x128.png",
+        "/atividade-pwa-angular/assets/icons/icon-144x144.png",
+        "/atividade-pwa-angular/assets/icons/icon-152x152.png",
+        "/atividade-pwa-angular/assets/icons/icon-192x192.png",
+        "/atividade-pwa-angular/assets/icons/icon-384x384.png",
+        "/atividade-pwa-angular/assets/icons/icon-512x512.png",
+        "/atividade-pwa-angular/assets/icons/icon-72x72.png",
+        "/atividade-pwa-angular/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/atividade-pwa-angular/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/atividade-pwa-angular/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/atividade-pwa-angular/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/atividade-pwa-angular/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/atividade-pwa-angular/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/atividade-pwa-angular/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/atividade-pwa-angular/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/atividade-pwa-angular/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/atividade-pwa-angular/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/atividade-pwa-angular/index.html": "0e32af5ea536f8da285e544cebbc1710fa0f1bca",
+    "/atividade-pwa-angular/main.a1d57d71d4937187.js": "5f48c570456ddb2b6a8de583e68b78a04028be18",
+    "/atividade-pwa-angular/manifest.webmanifest": "40a0bd12c71c713781cf80e48eda21433f29eb12",
+    "/atividade-pwa-angular/polyfills.fb544d1b1e0d76ba.js": "4719ac29b89a9962e2b574bee25169403a54f2c5",
+    "/atividade-pwa-angular/runtime.c96df8fab863f987.js": "5fbb88db29ee0b643700027c80ce67cf41fbdf76",
+    "/atividade-pwa-angular/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
